@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "#42a5f5"  # Background color for the splash screen
+  image: assets/images/ipeung.png  # Image to show on the splash screen
+  android: true  # Enable splash on Android
+  ios: true  # Enable splash on iOS
